@@ -34,4 +34,4 @@ Navigate using the sidebar or the "next page" arrows to begin.
 
 ## License
 
-The Solo Development Guide is released as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See our [Github Repository](https://github.com/3drobotics/solodevguide) for more details.
+The Solo Development Guide is released as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See our [Github Repository](https://github.com/3drobotics/solodevguide) for more details.
